@@ -1,0 +1,11 @@
+centroid 0: label 6, count of same label 4420, count of all 5139, accuracy 0.860089511578
+centroid 1: label 7, count of same label 2772, count of all 6655, accuracy 0.41652892562
+centroid 2: label 4, count of same label 2257, count of all 5413, accuracy 0.416959172363
+centroid 3: label 3, count of same label 3983, count of all 7453, accuracy 0.534415671542
+centroid 4: label 0, count of same label 3421, count of all 3682, accuracy 0.929114611624
+centroid 5: label 2, count of same label 4112, count of all 4551, accuracy 0.903537684025
+centroid 6: label 9, count of same label 2459, count of all 7284, accuracy 0.337589236683
+centroid 7: label 8, count of same label 3491, count of all 5540, accuracy 0.630144404332
+centroid 8: label 1, count of same label 6585, count of all 10349, accuracy 0.636293361677
+centroid 9: label 0, count of same label 1946, count of all 3934, accuracy 0.494661921708
+Total: count of same labels 35446, count of all 60000, accuracy 0.590766666667

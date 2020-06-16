@@ -1,0 +1,45 @@
+frequent items complete. total: 108
+number of baskets: 3394934, threshold: 0.005000, pass_count: 16974.670000
+11.7498970032
+threshold is 0.005000, pass_count is 16974.670000
+pair: "the of" count: 352310
+pair: "the and" count: 174876
+pair: "in the" count: 146017
+pair: "the to" count: 145171
+pair: "of and" count: 106824
+pair: "of a" count: 100121
+pair: "the a" count: 84377
+pair: "to and" count: 74266
+pair: "in of" count: 73828
+pair: "of to" count: 68015
+pair: "and a" count: 66899
+pair: "in and" count: 62592
+pair: "the was" count: 62453
+pair: "to a" count: 57495
+pair: "in a" count: 54897
+pair: "the is" count: 54866
+pair: "the on" count: 53910
+pair: "the that" count: 51819
+pair: "by the" count: 47365
+pair: "with the" count: 44846
+pair: "the he" count: 44370
+pair: "for the" count: 43644
+pair: "the it" count: 41316
+pair: "the at" count: 40688
+pair: "in to" count: 40610
+pair: "be to" count: 40461
+pair: "as the" count: 39145
+pair: "of was" count: 36443
+pair: "from the" count: 34846
+pair: "was and" count: 34740
+pair: "and his" count: 34170
+pair: "of his" count: 33608
+pair: "it to" count: 33164
+pair: "of that" count: 33117
+pair: "the his" count: 33109
+pair: "the i" count: 32738
+pair: "i to" count: 32515
+pair: "was a" count: 32294
+pair: "the which" count: 32238
+pair: "to was" count: 31337
+36.9822320938

@@ -1,0 +1,45 @@
+frequent items complete. total: 725
+number of baskets: 945127, threshold: 0.005000, pass_count: 4725.635000
+8.8698451519
+threshold is 0.005000, pass_count is 4725.635000
+pair: "thy thou" count: 59625
+pair: "thee thou" count: 48991
+pair: "thee thy" count: 40074
+pair: "thou art" count: 30185
+pair: "scene act" count: 28597
+pair: "scene enter" count: 25316
+pair: "act enter" count: 24002
+pair: "exeunt act" count: 21588
+pair: "hast thou" count: 21571
+pair: "thou o" count: 21291
+pair: "scene exeunt" count: 20468
+pair: "exeunt enter" count: 20085
+pair: "lord good" count: 19303
+pair: "now thou" count: 18486
+pair: "thou shall" count: 18146
+pair: "duke gloucester" count: 18094
+pair: "thou dost" count: 15894
+pair: "thy o" count: 15879
+pair: "thou lord" count: 15811
+pair: "thou come" count: 15605
+pair: "lord shall" count: 15531
+pair: "shall come" count: 15465
+pair: "sir good" count: 15396
+pair: "thy shall" count: 15203
+pair: "thou good" count: 15188
+pair: "duke lord" count: 14981
+pair: "more thou" count: 14886
+pair: "enter here" count: 14656
+pair: "thou sir" count: 14483
+pair: "thee shall" count: 13839
+pair: "shall good" count: 13716
+pair: "enter lord" count: 13607
+pair: "thee i'll" count: 13430
+pair: "love thou" count: 13312
+pair: "now lord" count: 13307
+pair: "now enter" count: 13300
+pair: "thee o" count: 13294
+pair: "now thy" count: 13129
+pair: "king thou" count: 13122
+pair: "v henry" count: 13111
+62.0016050339

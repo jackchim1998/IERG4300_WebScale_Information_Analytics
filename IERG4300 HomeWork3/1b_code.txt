@@ -1,0 +1,33 @@
+/******************************************************************************
+
+                            Online C Compiler.
+                Code, Compile, Run and Debug C program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+#include <stdio.h>
+#include <math.h>
+int main()
+{
+    double t1=0.85;
+    double t2=0.5;
+    double p1=0.99;
+    double p2=0.01;
+    int c=100000;//c=r*b
+    int r=1;
+    int b=c/r;
+    for(r=1;r<c;r++){
+        if(c%r==0){
+            b=c/r;
+            double current_p1 = pow(1-pow(t1,r),b);
+            double current_p2 = 1-pow(1-pow(t2,r),b);
+            if(current_p1>=p1 && current_p2<=p2){
+                printf("r:%d b:%d\n",r,b);
+                printf("p1:%f p2:%f\n",current_p1,current_p2);
+            }
+        }
+    }
+
+    return 0;
+}
